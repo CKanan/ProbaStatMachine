@@ -1,6 +1,6 @@
 # Probability Statistics Machine
 
-This project is a simple probability calculator which prints the probability for different distributions.
+This project is a simple probability calculator which reads csv files of distributions and prints the probability for different distributions.
 
 Firstly, User chooses one of the distributions. Then user enters line and column for selected distribution. At the end program prints result. 
 (Binomial distribution is not work)
